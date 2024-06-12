@@ -39,3 +39,5 @@ app.post('/items', async (req, res) => {
 });
 
 app.listen(8080);
+console.log("app is listening");
+
